@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,weighted_f1,balanced_accuracy,fatal_recall,serious_recall
+Accuracy-Priority Random Forest,0.676793725245959,0.39235333630691627,0.6811446967367814,0.395461242749635,0.01257445400397088,0.4015751401789154

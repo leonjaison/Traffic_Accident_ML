@@ -1,0 +1,5 @@
+sample_size,eps_km,minPts,cluster_count,clustered_records,noise_records,noise_percentage,largest_cluster
+20000,0.25,10,8,97,19903,99.52,18
+20000,0.5,10,76,1767,18233,91.16,201
+20000,1,10,129,6237,13763,68.82,3004
+20000,2,10,170,12158,7842,39.21,4537

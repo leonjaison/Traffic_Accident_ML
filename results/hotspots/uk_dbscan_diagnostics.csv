@@ -1,0 +1,2 @@
+input_records,records_after_coordinate_validation,records_after_deduplication,records_retained,eps_km,minPts,cluster_count,clustered_records,noise_records,noise_percentage
+513801,513748,513748,513748,1,10,1909,463437,50311,9.79

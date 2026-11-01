@@ -1,0 +1,10 @@
+Actual,Predicted,N
+Fatal,Fatal,438
+Serious,Fatal,3307
+Slight,Fatal,6696
+Fatal,Serious,162
+Serious,Serious,1327
+Slight,Serious,2386
+Fatal,Slight,902
+Serious,Slight,18933
+Slight,Slight,66776

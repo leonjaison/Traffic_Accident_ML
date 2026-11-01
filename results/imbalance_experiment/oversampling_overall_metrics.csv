@@ -1,0 +1,2 @@
+Method,Accuracy,Macro_F1,Balanced_Accuracy,Fatal_Recall,Serious_Recall,Slight_Recall
+Random oversampling,0.679114607587662,0.330692249748183,0.409398346502214,0.291611185086551,0.0563075486909662,0.880276305729126

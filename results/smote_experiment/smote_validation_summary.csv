@@ -1,0 +1,2 @@
+"model","accuracy","macro_f1","balanced_accuracy","fatal_recall","serious_recall"
+"SMOTE Random Forest (exploratory validation)",0.578140636301485,0.375470665006478,0.396512048391963,0.0419440745672437,0.550133661475792

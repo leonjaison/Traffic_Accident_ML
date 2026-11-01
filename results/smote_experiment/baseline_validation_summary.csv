@@ -1,0 +1,2 @@
+"model","validation_year","accuracy","macro_f1","balanced_accuracy","fatal_recall","serious_recall"
+"Baseline Random Forest (no SMOTE)",2024,0.577774034698346,0.357903689564922,0.384860553043988,0.00266311584553928,0.555989307081937

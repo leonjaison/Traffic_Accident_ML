@@ -1,0 +1,4 @@
+Class,Precision,Recall,F1
+Fatal,0.042,0.2916,0.0733
+Serious,0.3425,0.0563,0.0967
+Slight,0.771,0.8803,0.822

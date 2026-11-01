@@ -1,0 +1,7 @@
+model,class,support,precision,recall,f1_score
+Baseline Decision Tree,Fatal,1511,0,0,0
+Baseline Decision Tree,Serious,23363,0,0,0
+Baseline Decision Tree,Slight,77887,0.7579431885637548,1,0.8623068066073247
+Cost-Sensitive Decision Tree,Fatal,1511,0,0,0
+Cost-Sensitive Decision Tree,Serious,23363,0.35417749721500186,0.20412618242520225,0.25898772672966225
+Cost-Sensitive Decision Tree,Slight,77887,0.7811996058054113,0.8956308498208944,0.834510685895097
